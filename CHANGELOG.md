@@ -1,3 +1,7 @@
+## 0.9.0-dev
+
+- Upgrade cloud_firestore to ^0.14.0-dev
+
 ## 0.8.17
 
 - Omit `createdAt` of `replacingTimestamp`
